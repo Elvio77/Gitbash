@@ -1,4 +1,9 @@
 teste
 teste 2
 teste
+<<<<<<< HEAD
 teste 5
+=======
+teste
+teste 5
+>>>>>>> c6af6caa7a630c9e3c0895536ca2056c93101897
